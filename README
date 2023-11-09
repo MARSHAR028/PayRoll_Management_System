@@ -1,1 +1,5 @@
+## Create Database
 
+* [Table.sql](https://github.com/MARSHAR028/PayRoll_Management_System/blob/main/Creating%20Tables.txt): Create tables for entities and relationships above.
+* [Insert.sql](https://github.com/MARSHAR028/PayRoll_Management_System/blob/main/Inserting%20Data.txt): Insert datas into tables.
+* [Stored Procedures.sql](https://github.com/MARSHAR028/PayRoll_Management_System/blob/main/Procedures.txt): Concepts to work with data.
